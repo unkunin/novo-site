@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: black;
+    background-color: rgb(102, 102, 102);
     background-image: url(https://images5.alphacoders.com/521/thumb-1920-521476.jpg);
     background-position: center center;
     background-repeat: no-repeat;
