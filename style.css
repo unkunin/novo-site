@@ -1,8 +1,12 @@
 @charset "UTF-8";
 
 body{
+    background-color: black;
     background-image: url(https://images5.alphacoders.com/521/thumb-1920-521476.jpg);
-    background-position: left top;
+    background-position: center center;
     background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
 
 }
